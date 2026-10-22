@@ -1,6 +1,25 @@
-﻿venv/
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
 __pycache__/
-*.pyc
-temp/
-*.pt
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Data biometrik & model (JANGAN di-commit: foto wajah member + model LBPH)
+data/
+
+# Konfigurasi rahasia
 .env
+
+# Log
+*.log
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

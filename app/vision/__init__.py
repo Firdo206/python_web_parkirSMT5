@@ -1,0 +1,1 @@
+"""Pengolahan citra: deteksi wajah (Haar cascade) dan preprocessing."""

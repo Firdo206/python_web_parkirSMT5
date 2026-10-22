@@ -1,0 +1,1 @@
+"""Sistem cerdas: dataset wajah member, training, dan pengenalan LBPH."""
